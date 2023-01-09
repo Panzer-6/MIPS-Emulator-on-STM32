@@ -1,0 +1,2 @@
+../Core/Src/uart.c:19:6:command_parser	8	static
+../Core/Src/uart.c:131:6:uart_communication	16	static

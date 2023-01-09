@@ -1,0 +1,5 @@
+../Core/Src/mips.c:50:6:inst_en_queue	16	static
+../Core/Src/mips.c:56:6:substr	32	static
+../Core/Src/mips.c:68:9:binToDec_signed	32	static
+../Core/Src/mips.c:81:10:binToDec_unsigned	32	static
+../Core/Src/mips.c:93:6:emulator	624	static
